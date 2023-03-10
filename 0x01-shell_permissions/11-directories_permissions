@@ -1,2 +1,2 @@
 #!/bin/bash
-chno -R +X X
+chmod -R +X . 
